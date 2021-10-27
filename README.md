@@ -1,3 +1,5 @@
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
+
 ### Hi there, I'm Felicio Fernandes [visitme][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://atsabefelicio.com/)
