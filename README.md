@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently Learning Python 🤣
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2022 Goals: I'm able to expert in Machine Learning
+- 🥅 2022 Goals: I'm able to be expert in Machine Learning
 - ⚡ Fun fact: I love to Read Philosophical Books, Hiking Mountains, Explore the beauty of Nature
 
 ### Connect with me:
@@ -25,16 +25,16 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="50px" src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />][website]
+[<img align="left" alt="Python" width="50px" src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />][pythonlist]
 
-[<img align="left" alt="Laravel" width="50px" src="https://img.shields.io/badge/Laravel-Laravel-orange?style=for-the-badge&logo=appveyor" />][website]
+[<img align="left" alt="Laravel" width="50px" src="https://img.shields.io/badge/Laravel-Laravel-orange?style=for-the-badge&logo=appveyor" />][laravelweb]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualcode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactweb]
 
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
@@ -58,8 +58,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
 </details>
 
 [website]: https://atsabefelicio.com/
@@ -68,7 +66,7 @@
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/josefernandezjunior/
 [linkedin]: https://www.linkedin.com/in/felicio-fernandes-450028181/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[pythonlist]: https://github.com/fernandezfelicio24/HARDY-WAY
+[laravelweb]: https://laravel.com/
+[visualcode]: https://code.visualstudio.com/
+[reactweb]: https://atsabefelicio.com/paijo/
