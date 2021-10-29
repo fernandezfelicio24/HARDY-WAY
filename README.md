@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Felicio Fernandes [visitme][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://atsabefelicio.com/)
+
 [![Twitter Follow](https://img.shields.io/badge/LinkedIn-LinkedIn-blue?style=social&logo=appveyor)](https://www.linkedin.com/in/felicio-fernandes-450028181/)
 
 ## I'm Junior Web Developer, Back-end Developer, Machine Learning enthusiast!!
